@@ -1,0 +1,6 @@
+{
+    "name": "nunomaduro/cache-common",
+    "require": {
+        "nunomaduro/collision": "^3.0"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "nunomaduro/cache-common",
+    "require": {
+        "nunomaduro/cache-common": "1.0.0"
+    }
+}
